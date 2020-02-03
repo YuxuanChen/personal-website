@@ -20,8 +20,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Resume', 'resume.pdf'),
-         ('About', 'intro.html'),
+LINKS = (('About', 'intro.html'),
         )
 # Social widget
 SOCIAL_WIDGET_NAME = 'Find me on'

@@ -15,4 +15,5 @@ I've also done web development for [Inkling](https://www.inkling.com/) and machi
 I'm always looking out for great opportunities. Reach out if you'd like to chat!
 
 [hire@yuxuan.cloud](mailto:hire@yuxuan.cloud)  
-[LinkedIn](https://www.linkedin.com/in/chenyuxuan/)
+[LinkedIn](https://www.linkedin.com/in/chenyuxuan/)  
+<a href="resume.pdf" download>Resume</a>
