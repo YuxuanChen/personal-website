@@ -1,4 +1,4 @@
-# yuxuanchen.github.io
+# https://www.yuxuan.cloud
 Yuxuan's personal website.
 
 ## Development
